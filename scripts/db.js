@@ -1,42 +1,86 @@
-export const Productos=[
+export const DBProductos =[
     {
-        // --> Atributos
-        Codigo:1,
-        Nombre:"Pantalon",
-        Precio:25.000,
-        Stock:10,
-        img:"../src/Productos/a.jpg"
-    },
-    {
-        // --> Atributos
-        Codigo:2,
-        Nombre:"Pantalon",
-        Precio:30.000,
+        Codigo:'011',
+        Nombre:'Zapatillas Nike 22',
+        Precio:45000,
         Stock:5,
-        img:"../src/Productos/b.jpg"
+        Imagen: '/src/Productos/a.jpg'
     },
     {
-        // --> Atributos
-        Codigo:3,
-        Nombre:"Pantalon",
-        Precio:35.000,
-        Stock:25,
-        img:"../src/Productos/c.jpg"
+        Codigo:'012',
+        Nombre:'Remera',
+        Precio:1100,
+        Stock:5,
+        Imagen: '/src/Productos/b.jpg'
     },
     {
-        // --> Atributos
-        Codigo:4,
-        Nombre:"Pantalon",
-        Precio:5.000,
-        Stock:1,
-        img:"../src/Productos/d.jpg"
+        Codigo:'013',
+        Nombre:'Zapatillas Nike 30',
+        Precio:30000,
+        Stock:5,
+        Imagen: '/src/Productos/c.jpg'
     },
     {
-        // --> Atributos
-        Codigo:5,
-        Nombre:"Pantalon",
-        Precio:100.000,
-        Stock:2,
-        img:"../src/Productos/e.jpg"
+        Codigo:'011',
+        Nombre:'Zapatillas Nike 22',
+        Precio:45000,
+        Stock:5,
+        Imagen: '/src/Productos/a.jpg'
+    },
+    {
+        Codigo:'012',
+        Nombre:'Remera',
+        Precio:1100,
+        Stock:5,
+        Imagen: '/src/Productos/b.jpg'
+    },
+    {
+        Codigo:'013',
+        Nombre:'Zapatillas Nike 30',
+        Precio:30000,
+        Stock:5,
+        Imagen: '/src/Productos/c.jpg'
+    },
+    {
+        Codigo:'011',
+        Nombre:'Zapatillas Nike 22',
+        Precio:45000,
+        Stock:5,
+        Imagen: '/src/Productos/a.jpg'
+    },
+    {
+        Codigo:'012',
+        Nombre:'Remera',
+        Precio:1100,
+        Stock:5,
+        Imagen: '/src/Productos/b.jpg'
+    },
+    {
+        Codigo:'013',
+        Nombre:'Zapatillas Nike 30',
+        Precio:30000,
+        Stock:5,
+        Imagen: '/src/Productos/c.jpg'
+    },
+    {
+        Codigo:'011',
+        Nombre:'Zapatillas Nike 22',
+        Precio:45000,
+        Stock:5,
+        Imagen: '/src/Productos/a.jpg'
+    },
+    {
+        Codigo:'012',
+        Nombre:'Remera',
+        Precio:1100,
+        Stock:5,
+        Imagen: '/src/Productos/b.jpg'
+    },
+    {
+        Codigo:'013',
+        Nombre:'Zapatillas Nike 30',
+        Precio:30000,
+        Stock:5,
+        Imagen: '/src/Productos/c.jpg'
     }
 ]
